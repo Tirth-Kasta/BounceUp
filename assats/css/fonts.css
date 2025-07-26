@@ -1,0 +1,210 @@
+
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Black Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-BlackIt.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Extra Black */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-XBlack.ttf') format('truetype');
+  font-weight: 950;
+  font-style: normal;
+}
+
+/* Extra Black Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-XBlackIt.ttf') format('truetype');
+  font-weight: 950;
+  font-style: italic;
+}
+
+/* Heavy */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Heavy.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Heavy Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-HeavyIt.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Medium Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-MediumIt.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Light Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-LightIt.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Thin */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Thin Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* UltraLight */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-UltLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* UltraLight Italic */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-UltraLightIt.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Italic (default weight) */
+@font-face {
+  font-family: 'Neue Haas Unica Pro';
+  src: url('fonts/NeueHaasUnicaPro-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Futura Cyrillic Book (Regular) */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicBook.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicLight.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicMedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Demi */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicDemi.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ExtraBold */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Heavy */
+@font-face {
+  font-family: 'Futura Cyrillic';
+  src: url('fonts/FuturaCyrillicHeavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Heavy */
+
+
+@font-face {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  src: url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+}
