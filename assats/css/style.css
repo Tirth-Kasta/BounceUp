@@ -1528,8 +1528,14 @@ footer .context p {
 
 
 /* about page css */
+.about-section-one {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
 .about-section-one .row {
     align-items: center;
+
 }
 
 .about-section-one .img1 {
@@ -1595,12 +1601,17 @@ footer .context p {
 }
 
 
-.col-2-5{
+.col-2-5 {
     width: 20%;
     padding: 0;
     max-height: 665px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
 }
-.about-section-two img{
+
+.about-section-two img {
     width: 100%;
 }
 
@@ -1623,5 +1634,25 @@ footer .context p {
 .about-section-two .img5 {
     background-color: #ff7aa7;
 }
-
+.about-section-three{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.about-section-three h5{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.about-section-three p{
+    text-align: center;
+    font-size: 21px;
+    font-weight: 300;
+    color: #fff;
+    font-family: 'Futura Cyrillic',sans-serif;
+    font-style: normal;
+    max-width: 1350px;
+    margin: auto;
+}
 /* about page css */
